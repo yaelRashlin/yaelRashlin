@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yaelRashlin
-- 👀 I’m interested in Paython, Games and everything in between 😊
+- 👀 I’m interested in Python, Games and everything in between 😊
 - 🌱 I’m currently learning mostly unity
 - 💞️ I’m looking to collaborate on everything interesting 
 - 📫 How to reach me - right over here. 
