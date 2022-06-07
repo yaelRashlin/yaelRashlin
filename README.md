@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Games and everything in between 😊
 - 🌱 I’m currently learning mostly unity
 - 💞️ I’m looking to collaborate on everything interesting 
-- 📫 How to reach me - right over here. 
+- 📫 How to reach me? right over here. 
 
 <!---
 yaelRashlin/yaelRashlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
